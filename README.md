@@ -1,4 +1,4 @@
-# Vue-CLI2-to-Ve-CLI3
+# Vue-CLI2-2-CLI3
 
 ## Project setup
 ```
